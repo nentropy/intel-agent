@@ -1,0 +1,15 @@
+[
+    {
+        "model": "gpt-4o",
+        "api_key": os.getenv("OPENAI_API_KEY"),
+        "tags": ["tool", "gpt-4"]
+    },
+    {
+        "model": "gpt-3.5-turbo-16k",
+        "api_key": "<your Azure OpenAI API key here>",
+        "base_url": "<your Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2024-02-01",
+        "tags": ["tool", "gpt-3.5-turbo-16k"]
+    }
+]
