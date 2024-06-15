@@ -9,6 +9,7 @@ __pycache__/
 poetry.lock 
 docs/build/
 .env
+examples/
 
 # C extensions
 *.so
