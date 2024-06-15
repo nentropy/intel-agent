@@ -1,0 +1,6 @@
+[submodule "langgraph"]
+	path = langgraph
+	url = https://github.com/langchain-ai/langgraph.git
+[submodule "intel-agent"]
+	path = intel-agent
+	url = https://github.com/nentropy/intel-agent.git
